@@ -1,0 +1,28 @@
+﻿  SS06A.cpp
+  cvui.h: compiling implementation because of CVUI_IMPLEMENTATION. See: https://dovyski.github.io/cvui/usage/
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(98,97): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(98,65): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(117,37): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(175,64): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(175,55): warning C4244: '引数': 'double' から '_Tp' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(299,24): warning C4838: 'int' から 'double' への変換には縮小変換が必要です
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(300,19): warning C4838: 'int' から 'double' への変換には縮小変換が必要です
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(300,37): warning C4838: 'int' から 'double' への変換には縮小変換が必要です
+C:\Users\Ritter\skillsem1\SS06A\SS06A\SS06A.cpp(301,19): warning C4838: 'int' から 'double' への変換には縮小変換が必要です
+  SS06A.vcxproj -> C:\Users\Ritter\skillsem1\SS06A\SS06A\x64\Debug\SS06A.exe
